@@ -1,6 +1,6 @@
 {
-  "name": "iridiumfinance",
-  "version": "1.0.7",
+  "name": "undeadtoolkiv2",
+  "version": "2.0.0",
   "description": "Set of UI components for Iridium Finance",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/polydaedalus/iridium-toolkit/tree/main/packages/pancake-uikit",
+  "repository": "https://github.com/financeundead/toolkitv2/tree/main/packages/pancake-uikit",
   "license": "MIT",
   "scripts": {
     "start": "yarn storybook",

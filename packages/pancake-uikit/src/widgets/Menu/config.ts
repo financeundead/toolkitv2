@@ -125,7 +125,7 @@ export const links = [
       },
       {
         label: "Github",
-        href: "https://github.com/polydaedalus",
+        href: "https://github.com/financeundead",
       },
       {
         label: "Docs",
@@ -146,14 +146,14 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "http://t.me/PlatinumFinanceOfficial",
+        href: "http://t.me/theundeadfinance",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/PlatinumPolygon",
+    href: "https://twitter.com/FinanceUndead",
   },  
 ];
 
